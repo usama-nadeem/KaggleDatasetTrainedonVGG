@@ -9,3 +9,6 @@ This repositor includes 3 task:
   
   3- Freezing some layers of VGG-16 model and retraining the rest of the model using same dataset, (Transfer Learning Technique) -> untitiled.ipynb
   
+Trained model weights file size was too big. So, they have been uploaded and link is given below:
+
+https://nustedupk0-my.sharepoint.com/:f:/g/personal/unadeem_ee38ceme_student_nust_edu_pk/Ev8IPeMc51ZBobsIG8cXfLgBL_wRJRh-65subt09QsVmpw?e=3cZgc7
